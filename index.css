@@ -1,0 +1,82 @@
+.Navbar{
+	padding : 20px;
+	font-family:'italic';
+}
+.Header{
+	font-size:30px;
+	text-align:center;
+	background-color: green;
+	color: white;
+	
+}
+.aboutme{
+	
+	text-align:center;
+	color: green;
+}
+
+#font{
+	font-size: 20px;
+	color: white;
+	font-style: oblique;
+	border-style: solid;
+	text-align:center;
+	padding: 30px;
+	border-color: green;
+	background-color: violet;
+}
+.headings{
+	font-size:25px;
+	color: white;
+	font-style:italic;
+	background-color: purple;
+
+}
+
+p{
+	font-size: 25px;
+	color: green;
+}
+
+#button{
+	color: white;
+	background-color:purple;
+	
+}
+.hobbies{
+	text-align:center-left;
+	font-size: 20px;
+	padding:15px;
+	font-style: oblique;
+	background-color: grey;
+	color: white;
+	
+}
+ul li{
+	background: white;
+	margin: 4px;
+	padding: 5px;
+	color: green; 
+}
+.center{
+	text-align: center
+	
+}
+.details{
+	font-size: 20px;
+	color: green;
+		font-style: oblique;
+	text-align:center;
+	padding: 5px;
+	
+	
+}
+#links{
+	text-align: left;
+}
+.class{
+	text-align: center;
+	color: green;
+}
+
+
